@@ -31,7 +31,7 @@ const Homepage = () => {
       </header>
       <div className="d-flex sub-header">
         <img src={logo} alt="logo" />
-        <h1 id="sub-title">Air Pollution Across the Cities</h1>
+        <h1 id="sub-title">Air Pollution Across Cities</h1>
       </div>
       <div className="d-flex filter">
         <DropdownMenu />
