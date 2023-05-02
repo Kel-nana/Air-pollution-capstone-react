@@ -30,7 +30,7 @@ const CityCard = ({ level, name, id }) => {
 CityCard.propTypes = {
   name: PropTypes.string.isRequired,
   level: PropTypes.number.isRequired,
-  id: PropTypes.string.isRequired,
+  id: PropTypes.number.isRequired,
 };
 
 export default CityCard;
