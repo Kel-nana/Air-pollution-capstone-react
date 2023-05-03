@@ -49,4 +49,5 @@ const cityReducer = (state = [], action) => {
   }
 };
 
+export { addCities, filterAction, ADD_CITIES };
 export default cityReducer;
