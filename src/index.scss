@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+$primary-color: #ec4c8a;
+$brighter-pink: #fe5395;
+$dark-pink: #d14278;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.primaryColor {
+  background-color: $primary-color;
+}
+
+.header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  gap: 0 10px;
+}
+
+.main {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+}
+
+.title {
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.mainList:nth-child(2),
+.mainList:nth-child(3),
+.mainList:nth-child(6),
+.mainList:nth-child(7),
+.mainList:nth-child(10),
+.mainList:nth-child(11),
+.mainList:nth-child(14) {
+  background-color: $dark-pink;
+}
+
+.cityCard {
+  flex-direction: column;
+  align-items: center;
+  transition: all ease-in-out 0.3s;
+  height: 200px;
+}
+
+.cityCard:hover {
+  background-color: $brighter-pink;
+}
+
+.cardName {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.icons {
+  gap: 0 10px;
+  cursor: pointer;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  opacity: 0.6;
+}
+
+.sub-header {
+  align-items: center;
+  letter-spacing: 0.2rem;
+  justify-content: center;
+  gap: 0 20px;
+  background-color: $brighter-pink;
+}
+
+#sub-title {
+  width: 200px;
+}
+
+.forward-arrow {
+  align-self: flex-end;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 5px;
+  outline: none;
+  border: none;
+}
+
+.backButton {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.transparent {
+  background-color: transparent;
+}
+
+.filter {
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 0;
+  color: $primary-color;
+}
+
+#dropdown-basic-button {
+  background-color: $dark-pink;
+  border: none;
+  outline: none;
+  margin-right: 10px;
+}
+
+ul.main {
+  padding: 0;
+  margin: 0;
+}
+
+.detailList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.detailList > li {
+  padding: 30px 10px;
+  justify-content: space-between;
+}
+
+.listItem:nth-of-type(odd) {
+  background-color: $dark-pink;
+}

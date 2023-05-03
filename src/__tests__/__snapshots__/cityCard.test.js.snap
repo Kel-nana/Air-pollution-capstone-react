@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="d-flex cityCard"
+>
+  <button
+    className="forward-arrow transparent"
+    onClick={[Function]}
+  >
+    <svg
+      fill="currentColor"
+      height="1em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 512 512"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M262.62 336L342 256l-79.38-80m68.35 80H170"
+        fill="none"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="32"
+      />
+      <path
+        d="M256 448c106 0 192-86 192-192S362 64 256 64 64 150 64 256s86 192 192 192z"
+        fill="none"
+        strokeMiterlimit="10"
+        strokeWidth="32"
+      />
+    </svg>
+  </button>
+  <div
+    className="d-flex cardName"
+  >
+    <h1 />
+    <span />
+  </div>
+</div>
+`;
