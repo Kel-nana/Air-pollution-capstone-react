@@ -1,4 +1,3 @@
-# Air-pollution-capstone-react
 # Air-pollution-webapp
 <a name="readme-top"></a>
 
@@ -36,7 +35,8 @@
 **Air-pollution-webapp** is a Mobile Webapp Project which is fetching  data through Rest Countries API and displaying them on the app pages. User can click on the available city metrics and can see the details on the details page. 
 
 ## 🛠 Built With <a name="built-with"></a>
-
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww 63
++ 
 React Redux and API 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -51,7 +51,7 @@ React Redux and API
 
 - [Live Demo](https://air-pollution-mbhw.onrender.com/)
 
-- [Live Video Presentation](https://www.loom.com/share/)
+- [Video Presentation](https://drive.google.com/file/d/16EzxOAHOwL9cnlrqs110GW7XuVvr3dqL/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,7 +59,8 @@ React Redux and API
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+### Prerequisiteso
+ 
 Web Browser, Code Editor.
 
 ### Setup
