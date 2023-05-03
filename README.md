@@ -129,7 +129,7 @@ I would like to thanks Behance for their design contributions to this project. S
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](https://github.com/Kel-nana/Air-pollution-capstone-react/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a name="readme-top"></a>
