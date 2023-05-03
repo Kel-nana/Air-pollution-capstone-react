@@ -35,12 +35,13 @@
 **Air-pollution-webapp** is a Mobile Webapp Project which is fetching  data through Rest Countries API and displaying them on the app pages. User can click on the available city metrics and can see the details on the details page. 
 
 ## 🛠 Built With <a name="built-with"></a>
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww 63
-+ 
+
 React Redux and API 
 
 ### Tech Stack <a name="tech-stack"></a>
-
+- HTML
+- SASS
+- REACT
 ### Key Features <a name="key-features"></a>
 
 - **[React Redux and usage of API ]**
